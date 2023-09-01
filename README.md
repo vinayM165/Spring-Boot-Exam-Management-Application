@@ -18,7 +18,9 @@ Update the application.properties file with your database credentials.
 Run the following command to build the project:
 mvn clean install
 ```
+
 Run the following command to start the application:
+
 ```
 java -jar target/quizspringboot.jar
 ```
