@@ -20,11 +20,11 @@ mvn clean install
 ```
 Run the following command to start the application:
 ```
-java -jar target/exam-management-system.jar
+java -jar target/quizspringboot.jar
 ```
 ## Usage
 To create a quiz/exam, log in as a user with admin/teacher roles.
-Click on the “/Quiz” end point and add questions based on topics and difficulties at "/question" endpoints.
+Click on the “/quiz” end point and add questions based on topics and difficulties at "/question" endpoints.
 To appear for a quiz, log in as a user with student identity.
 After appearing for the quiz, you will get results based on the quiz you appeared for.
 
