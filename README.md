@@ -39,6 +39,10 @@ mvn test
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
+## Support
+
+If you like this project, you can show your appreciation by buying me a coffee!
+[Buy me a Cofee](https://www.buymeacoffee.com/mvinay5)
 
 ## Contact
 If you have any questions or suggestions about this project, please feel free to contact me at mandgevinay16@gmail.com.
